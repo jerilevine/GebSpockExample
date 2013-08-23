@@ -1,0 +1,96 @@
+[0.004][INFO]:      ChromeDriver 22.0.1203.0 C:\Local\workspaces\GebSpockExample\test\resources\chromedriver.exe
+[0.932][FINE]:      Initializing session with capabilities {
+   "chrome.switches": [ "--ignore-certificate-errors" ]
+}
+
+[0.935][INFO]:      Launching chrome: "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --disable-hang-monitor --disable-prompt-on-repost --dom-automation --full-memory-crash-report --no-default-browser-check --no-first-run --ignore-certificate-errors --disable-popup-blocking --homepage=about:blank --ignore-certificate-errors
+[3.381][INFO]:      Connected to Chrome successfully. Version: 28.0.1500.95
+[3.451][FINE]:      Command received (/session/72e7a3f06f9cdb634f9d083930b3847f)
+[3.452][FINE]:      Command finished (/session/72e7a3f06f9cdb634f9d083930b3847f) with response {
+   "sessionId": "72e7a3f06f9cdb634f9d083930b3847f",
+   "status": 0,
+   "value": {
+      "acceptSslCerts": false,
+      "applicationCacheEnabled": false,
+      "browserConnectionEnabled": false,
+      "browserName": "chrome",
+      "chrome.chromedriverVersion": "22.0.1203.0",
+      "chrome.nativeEvents": false,
+      "cssSelectorsEnabled": true,
+      "databaseEnabled": false,
+      "handlesAlerts": true,
+      "javascriptEnabled": true,
+      "locationContextEnabled": false,
+      "nativeEvents": true,
+      "platform": "windows",
+      "rotatable": false,
+      "takesScreenshot": true,
+      "version": "28.0.1500.95",
+      "webStorageEnabled": true
+   }
+}
+
+[3.574][FINE]:      Command received (/session/72e7a3f06f9cdb634f9d083930b3847f/url) with params {
+   "url": "http://localhost:8080/GebSpockExample/car/list"
+}
+
+[3.574][FINER]:     Waiting for all views to stop loading...
+[3.575][FINER]:     Done waiting for all views to stop loading
+[14.831][FINER]:    Waiting for all views to stop loading...
+[14.839][FINER]:    Done waiting for all views to stop loading
+[14.839][FINE]:     Command finished (/session/72e7a3f06f9cdb634f9d083930b3847f/url) with response {
+   "sessionId": "72e7a3f06f9cdb634f9d083930b3847f",
+   "status": 0,
+   "value": {
+
+   }
+}
+
+[14.900][FINE]:     Command received (/session/72e7a3f06f9cdb634f9d083930b3847f/title)
+[14.900][FINER]:    Waiting for all views to stop loading...
+[14.902][FINER]:    Done waiting for all views to stop loading
+[14.925][FINER]:    Waiting for all views to stop loading...
+[14.926][FINER]:    Done waiting for all views to stop loading
+[14.926][FINE]:     Command finished (/session/72e7a3f06f9cdb634f9d083930b3847f/title) with response {
+   "sessionId": "72e7a3f06f9cdb634f9d083930b3847f",
+   "status": 0,
+   "value": "Car List"
+}
+
+[15.080][FINE]:     Command received (/session/72e7a3f06f9cdb634f9d083930b3847f/source)
+[15.080][FINER]:    Waiting for all views to stop loading...
+[15.081][FINER]:    Done waiting for all views to stop loading
+[15.097][FINER]:    Waiting for all views to stop loading...
+[15.098][FINER]:    Done waiting for all views to stop loading
+[15.098][FINE]:     Command finished (/session/72e7a3f06f9cdb634f9d083930b3847f/source) with response {
+   "sessionId": "72e7a3f06f9cdb634f9d083930b3847f",
+   "status": 0,
+   "value": "\u003C!DOCTYPE html\u003E\u003C!--[if lt IE 7 ]\u003E \u003Chtml lang=\"en\" class=\"no-js ie6\"\u003E \u003C![endif]--\u003E\u003C!--[if IE 7 ]\u003E ..."
+}
+
+[15.148][FINE]:     Command received (/session/72e7a3f06f9cdb634f9d083930b3847f/screenshot)
+[15.148][FINER]:    Waiting for all views to stop loading...
+[15.149][FINER]:    Done waiting for all views to stop loading
+[16.642][FINER]:    Waiting for all views to stop loading...
+[16.643][FINER]:    Done waiting for all views to stop loading
+[16.643][FINE]:     Command finished (/session/72e7a3f06f9cdb634f9d083930b3847f/screenshot) with response {
+   "sessionId": "72e7a3f06f9cdb634f9d083930b3847f",
+   "status": 0,
+   "value": "iVBORw0KGgoAAAANSUhEUgAABAoAAALvCAIAAABjn7BwAAAgAElEQVR4nOzdeXwdV33//885M3eRZFnycq+8O87qWJazOAlZI..."
+}
+
+[16.809][FINE]:     Command received (/session/72e7a3f06f9cdb634f9d083930b3847f/cookie)
+[16.810][FINER]:    Waiting for all views to stop loading...
+[16.810][FINER]:    Done waiting for all views to stop loading
+[16.821][FINER]:    Waiting for all views to stop loading...
+[16.822][FINER]:    Done waiting for all views to stop loading
+[16.822][FINE]:     Command finished (/session/72e7a3f06f9cdb634f9d083930b3847f/cookie) with response {
+   "sessionId": "72e7a3f06f9cdb634f9d083930b3847f",
+   "status": 0,
+   "value": {
+
+   }
+}
+
+[19.941][FINE]:     Command received (/session/72e7a3f06f9cdb634f9d083930b3847f)
+[20.613][INFO]:     Chrome shutdown

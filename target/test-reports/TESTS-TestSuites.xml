@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="GP5ED-9D3" id="0" name="CarFunctionalSpec" package="specs" tests="1" time="18.776" timestamp="2013-08-23T02:38:48">
+      <properties />
+
+      <testcase classname="specs.CarFunctionalSpec" name="Test list page" time="18.714" />
+
+      <system-out><![CDATA[--Output from Test list page--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from Test list page--
+Started ChromeDriver
+port=26030
+version=22.0.1203.0b
+log=C:\Local\workspaces\GebSpockExample\chromedriver.log
+]]></system-err>
+
+  </testsuite>
+</testsuites>

@@ -1,0 +1,14 @@
+Testsuite: specs.CarFunctionalSpec
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 18.776 sec
+------------- Standard Output ---------------
+--Output from Test list page--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from Test list page--
+Started ChromeDriver
+port=26030
+version=22.0.1203.0b
+log=C:\Local\workspaces\GebSpockExample\chromedriver.log
+------------- ---------------- ---------------
+
+Testcase: Test list page took 18.714 sec
